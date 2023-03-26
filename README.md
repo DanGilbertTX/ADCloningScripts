@@ -1,4 +1,4 @@
-# DEV &amp; TEST AD Environment Setup Scripts and Documentation
+# "Cloned" AD Environment Setup Scripts and Documentation
 
 This repo is for the scripts and documentation necessary to create and maintain the new Active Directory (AD) environments that have been created in order to "clone" an AD environment for testing/development purposes. 
 
